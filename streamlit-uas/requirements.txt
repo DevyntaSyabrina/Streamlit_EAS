@@ -1,4 +1,3 @@
 pandas
 plotly
-base64
 StringIO
